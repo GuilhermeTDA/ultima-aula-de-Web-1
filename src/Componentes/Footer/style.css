@@ -1,0 +1,17 @@
+ footer{
+    background-color: rgb(192, 186, 186);
+    padding: 30px 20px;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    height: 20px;
+    margin-top: auto;
+
+    animation: backInUp; 
+  animation-duration: 1s; 
+}
+
+footer div p {
+    text-align: center;
+}
